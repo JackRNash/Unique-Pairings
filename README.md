@@ -1,5 +1,5 @@
 # Unique-Pairings
-A simple script for generating rounds of pairs of people with no repeats for groups of an arbitrary size
+A simple script for generating rounds with pairs of people(where no two people are matched together twice) for groups of an arbitrary size
 
 ### Motivation
 My mother works with teams of people and sometimes needs to have the people work in pairs for several rounds until they've worked with everyone. The pairs should never repeat. She had figured out what do for smaller groups, but didn't know how to pair people up when she had an unusually large amount of people. I wrote this quick script to generate pairs for each round for whatever group size is input(some slight tweaking is needed for groups > 26 due to formatting decisions). 
